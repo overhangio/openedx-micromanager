@@ -26,7 +26,7 @@ Install requirements for your application::
 
 Build your application::
 
-    make configure APP=/absolute/path/to/your/frontend-app-repo/
+    make build APP=/absolute/path/to/your/frontend-app-repo/
   
 Deploy your application::
 
