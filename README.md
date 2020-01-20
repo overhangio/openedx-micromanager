@@ -1,7 +1,7 @@
 Micromanager -- for all your Open edx micro frontend (MFE) applications
 =======================================================================
 
-*Micromanager* is a tool for configuring, building and deploying [Open edX micro frontend applications](https://github.com/edx/edx-developer-docs/blob/master/docs/micro-frontends-in-open-edx.rst).
+*Micromanager* is a tool for configuring, building and deploying [Open edX micro frontend applications](https://github.com/edx/edx-developer-docs/blob/master/docs/developers_guide/micro_frontends_in_open_edx.rst).
 
 ⚠️ THIS IS ALPHA SOFTWARE NOT YET READY FOR RELEASE ⚠️
 
